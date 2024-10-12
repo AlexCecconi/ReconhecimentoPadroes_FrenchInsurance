@@ -1,0 +1,1 @@
+# ReconhecimentoPadroes_FrenchInsurance
